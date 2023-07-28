@@ -1,0 +1,10 @@
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\bin\Debug\netstandard2.0\SourceGen.deps.json
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\bin\Debug\netstandard2.0\SourceGen.dll
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\bin\Debug\netstandard2.0\SourceGen.pdb
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\obj\Debug\netstandard2.0\SourceGen.csproj.AssemblyReference.cache
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\obj\Debug\netstandard2.0\SourceGen.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\obj\Debug\netstandard2.0\SourceGen.AssemblyInfoInputs.cache
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\obj\Debug\netstandard2.0\SourceGen.AssemblyInfo.cs
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\obj\Debug\netstandard2.0\SourceGen.csproj.CoreCompileInputs.cache
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\obj\Debug\netstandard2.0\SourceGen.dll
+X:\Projects\ImportantProjects\SourceGenTest\SourceGen\obj\Debug\netstandard2.0\SourceGen.pdb
